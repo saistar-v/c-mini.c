@@ -1,14 +1,4 @@
-/*
- * 2D Graphics Editor
- * ------------------
- * A menu-driven program that draws shapes (circle, rectangle, line, triangle)
- * on a 2D character canvas using '*' and '_' characters.
- *
- * Features:
- *   - Add objects   : circle, rectangle, line, triangle
- *   - Delete objects : remove any previously added object by ID
- *   - Display picture: render the canvas to the console
- */
+
 
 #include <stdio.h>
 #include <stdlib.h>
